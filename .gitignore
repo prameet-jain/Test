@@ -1,6 +1,11 @@
 #################
 ## Eclipse
 #################
+.idea
+.idea/vcs.xml
+*.xml
+*.idea/*
+idea
 
 *.pydevproject
 .project
